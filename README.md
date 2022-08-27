@@ -4,3 +4,4 @@ Nesses códigos serão encontrados:
 - Cáculos matemáticos 
 - Classes 
 - Consumo de API
+Estes códigos são de trabalhos feitos no curso técnico de Desenvovlvimento de Sistemas na ETEC da disciplina de PROGRAMAÇÃO DE APLICATIVOS MOBILE.
